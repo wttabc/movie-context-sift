@@ -1,0 +1,6 @@
+2026-03-18 19:40:30,507 INFO    MainThread:26216 [wandb_init.py:setup_run_log_directory():717] Logging user logs to d:\movie comments analysis\wandb\run-20260318_194030-vy5szmib\logs\debug.log
+2026-03-18 19:40:30,507 INFO    MainThread:26216 [wandb_init.py:setup_run_log_directory():718] Logging internal logs to d:\movie comments analysis\wandb\run-20260318_194030-vy5szmib\logs\debug-internal.log
+2026-03-18 19:40:30,507 INFO    MainThread:26216 [wandb_init.py:init():844] calling init triggers
+2026-03-18 19:40:30,507 INFO    MainThread:26216 [wandb_init.py:init():849] wandb.init called with sweep_config: {}
+config: {'_wandb': {}}
+2026-03-18 19:40:30,507 INFO    MainThread:26216 [wandb_init.py:init():892] starting backend
